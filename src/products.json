@@ -1,0 +1,301 @@
+[
+  {
+    "id": 1,
+    "name": "Nike Air Jordan 1 Low",
+    "image": "Nike_Air_Jordan_1_Low_Black_Red.jpg",
+    "price": 110,
+    "type": "mens-shoes",
+    "category" : "men"
+  },
+
+  {
+    "id": 2,
+    "name": "Suede Classic XXI Sneakers Green",
+    "image": "Suede-Classic-XXI-Sneakers_Green.jpg",
+    "price": 75,
+    "type": "mens-shoes",
+    "category" : "men"
+  },
+  {
+    "id": 3,
+    "name": "Suede Classic XXI Sneakers",
+    "image": "Suede-Classic-XXI-Sneakers.jpg",
+    "price": 75,
+    "type": "mens-shoes",
+    "category" : "men"
+  },
+
+  {
+    "id": 4,
+    "name": "Air Jordan 1 Mid",
+    "image": "Air_Jordan_1_Mid.jpg",
+    "price": 125,
+    "type": "mens-shoes",
+    "category" : "men"
+  },
+
+  {
+    "id": 5,
+    "name": "SEASONS-Voyage-NITRO™-3-Men's-Running-Shoes",
+    "image": "SEASONS-Voyage-NITRO™-3-Men's-Running-Shoes.jpg",
+    "price": 140,
+    "type": "mens-shoes",
+    "category" : "men"
+  },
+
+  {
+    "id": 6,
+    "name": "Racer TR23 Shoes Blue",
+    "image": "Racer_TR23_Shoes_Blue.jpg",
+    "price": 80,
+    "type": "mens-shoes",
+    "category" : "men"
+  },
+
+
+
+  {
+    "id": 7,
+    "name": "Adilette Aqua Slides Black",
+    "image": "Adilette_Aqua_Slides_Black.jpg",
+    "price": 99,
+    "type": "mens-shoes",
+    "category" : "men"
+  },
+
+  {
+    "id": 8,
+    "name": "Superstar XLG Shoes",
+    "image": "Superstar_XLG_Shoes.jpg",
+    "price": 110,
+    "type": "mens-shoes",
+    "category" : "men"
+  },
+
+  {
+    "id": 9,
+    "name": "Nike Air Force Black",
+    "image": "airforce__black.jpg",
+    "price": 110,
+    "type": "womens-shoes",
+    "category" : "women"
+  },
+
+  {
+    "id": 10,
+    "name": "Nike Air Force White",
+    "image": "airforce__white.jpg",
+    "price": 110,
+    "category" : "women"
+  },
+
+  {
+    "id": 11,
+    "name": "Puma Fuse-2",
+    "image": "Fuse-2.jpg",
+    "price": 100,
+    "type": "womens-shoes", 
+    "category" : "women"
+  },
+
+  {
+    "id": 12,
+    "name": "Suede-Classic-XXI",
+    "image": "Suede-Classic-XXI-Women's-Sneakers.jpg",
+    "price": 75,
+    "type": "womens-shoes",
+    "category" : "women"
+  },
+
+  {
+    "id": 13,
+    "name": "Nike Dunk High Retro Black",
+    "image": "Nike Dunk High Retro_Black.jpg",
+    "price": 100,
+    "type": "womens-shoes",
+    "category" : "women"
+  },
+
+  {
+    "id": 14,
+    "name": "Nike Dunk High Retro Green",
+    "image": "Nike Dunk High Retro_Green.jpg",
+    "price": 100,
+    "type": "womens-shoes",
+    "category" : "women"
+  },
+
+  {
+    "id": 15,
+    "name": "Nike Dunk High Retro Red",
+    "image": "Nike Dunk High Retro_Red.jpg",
+    "price": 100,
+    "type": "womens-shoes",
+    "category" : "women"
+  },
+
+  {
+    "id": 16,
+    "name": "Puma Mayze",
+    "image": "Mayze-Women's-Sneakers.jpg",
+    "price": 90,
+    "type": "womens-shoes",
+    "category" : "women"
+  },
+
+  {
+    "id": 17,
+    "name": "NMD R1 Primeblue Shoes Pink",
+    "image": "NMD_R1_Shoes_Pink.jpg",
+    "price": 180,
+    "type": "womens-shoes",
+    "category" : "women"
+  },
+
+  {
+    "id": 18,
+    "name": "Samba OG Shoes Green",
+    "image": "Samba_OG_Shoes_Green.jpg",
+    "price": 100,
+    "type": "womens-shoes",
+    "category" : "women"
+  },
+
+  {
+    "id": 19,
+    "name": "Samba OG Shoes White",
+    "image": "Samba_OG_Shoes_White.jpg",
+    "price": 100,
+    "type": "womens-shoes",
+    "category" : "women"
+  },
+
+  {
+    "id": 20,
+    "name": "NMD R1 Primeblue Shoes Black",
+    "image": "NMD_R1_Primeblue_Shoes_Black.jpg",
+    "price": 180,
+    "type": "womens-shoes",
+    "category" : "women"
+  },
+
+  {
+    "id": 21,
+    "name": "Suede NYC Women",
+    "image": "Suede-NYC-Women's-Sneakers.jpg",
+    "price": 85,
+    "type": "womens-shoes",
+    "category" : "women"
+  },
+
+  {
+    "id": 22,
+    "name": "Vintage stainless steel grunge ring with stone",
+    "image": "Vintage stainless steel grunge ring with stone.jpg",
+    "price": 9,
+    "type": "mens-jewelry",
+    "category" : "men",
+    "group": "jewelry"
+  },
+
+  {
+    "id": 23,
+    "name": "9mm hoop earrings in real silver plate",
+    "image": "9mm hoop earrings in real silver plate.jpg",
+    "price": 7,
+    "type": "mens-jewelry",
+    "category" : "men",
+    "group": "jewelry"
+  },
+
+  {
+    "id": 24,
+    "name": "Oversized signet ring with black stone in burnished silver tone",
+    "image": "Oversized signet ring with black stone in burnished silver tone.jpg",
+    "price": 9,
+    "type": "mens-jewelry",
+    "category" : "men"
+  },
+
+  {
+    "id": 25,
+    "name": "Reclaimed Vintage inspired ring with stone in silver.jpg",
+    "image": "Reclaimed Vintage inspired ring with stone in silver.jpg",
+    "price": 8,
+    "type": "mens-jewelry",
+    "category" : "men",
+    "group": "jewelry"
+  },
+
+  {
+    "id": 26,
+    "name": "Spike hoop earrings in silver",
+    "image": "Weekday Unisex Spike hoop earrings in silver.jpg",
+    "price": 7,
+    "type": "mens-jewelry",
+    "category" : "men",
+    "group": "jewelry"
+  },
+
+  {
+    "id": 27,
+    "name": "Single hoop earrings set with turquoise semi precious pendants in silver tone",
+    "image": "Single hoop earrings set with turquoise semi precious pendants in silver tone.jpg",
+    "price": 12,
+    "type":"mens-jewelry",
+    "category" : "men",
+    "group": "jewelry"
+  },
+
+  {
+    "id": 28,
+    "name": "3 rings with mixed minimal designs in gold tone",
+    "image": "3 rings with mixed minimal designs in gold tone.jpg",
+    "price": 10,
+    "type":"womens-jewelry",
+    "category" : "women",
+    "group": "jewelry"
+  },
+
+  {
+    "id": 29,
+    "name": "Chakra multirow necklace in silver tone",
+    "image": "Chakra multirow necklace in silver tone.jpg",
+    "price": 8,
+    "type":"womens-jewelry",
+    "category" : "women",
+    "group": "jewelry"
+  },
+
+  {
+    "id": 30,
+    "name": "Chunky choker necklace in crystal silver",
+    "image": "Chunky choker necklace in crystal silver.jpg",
+    "price": 11,
+    "type":"womens-jewelry",
+    "category" : "women",
+    "group": "jewelry"
+  },
+
+  {
+    "id": 31,
+    "name": "Mid length cord necklace with red puff heart",
+    "image": "Mid length cord necklace with red puff heart.jpg",
+    "price": 6,
+    "type":"womens-jewelry",
+    "category" : "women",
+    "group": "jewelry"
+
+  },
+
+  {
+    "id": 32,
+    "name": "Ring with green baguette crystal stones in gold tone",
+    "image": "Ring with green baguette crystal stones in gold tone.jpg",
+    "price": 5,
+    "type":"womens-jewelry",
+    "category" : "women",
+    "group": "jewelry"
+  }
+
+]

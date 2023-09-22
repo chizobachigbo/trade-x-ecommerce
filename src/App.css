@@ -1,0 +1,45 @@
+body {
+  font-size: 14px;
+  line-height: 30px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  background-color: #ffffff;
+  min-height: 100%;
+}
+
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding-inline: 1rem 1.2rem;
+}
+
+
+.App {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+/* p {
+  font-size: clamp(0.8rem, 2.5vw, 1rem);
+} */
+
+a {
+  text-decoration: none;
+}
+
+img {
+  object-fit: cover;
+}
+
+.container {
+  padding-inline: 25vw;
+  max-width: 100%;
+}
+
+.active{
+  /* this is to give an underline under active navlink */
+  border-bottom: 3px solid black;
+}
