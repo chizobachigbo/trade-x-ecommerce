@@ -49,7 +49,7 @@ export default function Login() {
       <div className="my-6">
         <p className="mb-5 text-lg font-semibold">Create Account</p>
         <p className="mb-5">
-          By creating an account with Gentle Monster, you will be able to place
+          By creating an account with Trade X, you will be able to place
           your orders, save shipping preferences, create your wish list among
           other benefits.
         </p>
