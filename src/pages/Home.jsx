@@ -13,7 +13,7 @@ export default function Home() {
       group: "Men",
     },
     {
-      header: "Discover TradeX's Women's Fashion",
+      header: "Discover TradeX's Jewelry Collection",
       image: "jewelery.jpg",
       group: "Jewelry",
     },
